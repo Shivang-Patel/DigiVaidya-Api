@@ -1,5 +1,6 @@
 Flask
 flask-cors
+gunicorn
 llama-index
 transformers
 accelerate
