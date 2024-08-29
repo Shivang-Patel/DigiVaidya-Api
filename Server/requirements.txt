@@ -1,0 +1,12 @@
+Flask
+flask-cors
+llama-index
+transformers
+accelerate
+bitsandbytes
+replicate
+llama-index-readers-web
+llama-index-llms-replicate
+llama-index-embeddings-huggingface
+llama-index-program-openai
+llama-index-agent-openai
